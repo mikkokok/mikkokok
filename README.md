@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently working on Azure mainly with .NET C# and Powershell.
+
 <!--
 **mikkokok/mikkokok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
